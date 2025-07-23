@@ -31,3 +31,6 @@ q(x, y) ∝ (ΔP × ΔA) / (μ × L)
 ## Running the code 
 
 In order to run the code, go to CodeImplementation-A3.ipynb. Make sure to have installed all the required packages in the first cell of the notebook, and then run all the cells. 
+
+## Full Report  
+For detailed methodology and results, see the [full report](https://github.com/Michaela-Ivanova/ML-Science-3/blob/main/34MLS_Final_Assignment%20(1).pdf).
